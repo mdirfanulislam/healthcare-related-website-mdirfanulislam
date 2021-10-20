@@ -1,0 +1,9 @@
+.depart-link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.btn-depart :hover{
+    padding-inline: 5px;
+    color: white;
+}

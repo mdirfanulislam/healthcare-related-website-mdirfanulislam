@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://preview.colorlib.com/theme/medicare2/img/department/xd-icon1.png.pagespeed.ic.mzHqpldPOq.webp",
+      "name": "Cardiology",
+      "describe": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system."
+    },
+    {
+      "id": 2,
+      "img": "https://preview.colorlib.com/theme/medicare2/img/department/xd-icon2.png.pagespeed.ic.H6sGoQXUgz.webp",
+      "name": "Urology",
+      "describe": "Urology is a part of health care that deals with diseases of the male and female urinary tract (kidneys, ureters, bladder and urethra)."
+    },
+    {
+      "id": 3,
+      "img": "https://preview.colorlib.com/theme/medicare2/img/department/xd-icon3.png.pagespeed.ic.B3hjKzkx6A.webp",
+      "name": "Dental Care",
+      "describe": "Oral hygiene is the practice of keeping one's mouth clean and other problems by regular brushing of the teeth."
+    },
+    {
+      "id": 4,
+      "img": "https://preview.colorlib.com/theme/medicare2/img/department/xd-icon4.png.pagespeed.ic.ETIocm05np.webp",
+      "name": "Eye Care",
+      "describe": "An eye care professional is an individual who provides a service related to the eyes or vision."
+    },
+    {
+      "id": 5,
+      "img": "https://preview.colorlib.com/theme/medicare2/img/department/xd-icon5.png.pagespeed.ic.YvbsqOaL43.webp",
+      "name": "Neurology",
+      "describe": "Neurology is the branch of medicine treatment of disorders of the nervous system."
+    },
+    {
+      "id": 6,
+      "img": "https://preview.colorlib.com/theme/medicare2/img/department/xd-icon6.png.pagespeed.ic._f1vhZZQwH.webp",
+      "name": "Plastic Surgery",
+      "describe": "Plastic surgery is a surgical specialty involving the restoration, or alteration of the human body."
+    }
+  ]

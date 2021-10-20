@@ -1,0 +1,11 @@
+.link{
+    text-decoration: none;
+    padding-left: 10px;
+}
+.btn-logOut{
+    margin-left: 5px;
+    font-weight: bold;
+    background-color: gold;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}

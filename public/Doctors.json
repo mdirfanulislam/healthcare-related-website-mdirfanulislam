@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+      "title": "Dentist",
+      "name": "Maria"
+    },
+    {
+      "id": 2,
+      "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
+      "title": "Urologist",
+      "name": "Smith"
+    },
+    {
+      "id": 3,
+      "img": "https://image.freepik.com/free-photo/happy-young-male-doctor-using-tablet-computer_1262-18254.jpg",
+      "title": "Cardiologist",
+      "name": "John"
+    },
+    {
+      "id": 4,
+      "img": "https://image.freepik.com/free-photo/smiling-asian-woman-physician-white-coat_9083-2472.jpg",
+      "title": "Neurologist",
+      "name": "Rohita"
+    },
+    {
+      "id": 5,
+      "img": "https://image.freepik.com/free-photo/doctor-standing-with-folder-stethoscope_1291-16.jpg?1",
+      "title": "Plastic Surerist",
+      "name": "Karot"
+    },
+    {
+      "id": 6,
+      "img": "https://image.freepik.com/free-photo/healthcare-workers-medical-insurance-pandemic-covid-19-concept-handsome-smiling-doctor-white-coat-glasses-holding-medicine-hand-advice-use-medication-antibiotics_1258-58615.jpg",
+      "title": "Sicologist",
+      "name": "Nehal"
+    }
+  ]
